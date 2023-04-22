@@ -6,7 +6,7 @@ Symbolbedeutung:<br />
 
 ## Inhaltsverzeichnis
 
-[Installationschritte für PowerShell Core](exercises/01/readme.md)
+[01. Installationschritte für PowerShell Core](exercises/01/readme.md)
 
 ## Das Repository klonen
 
