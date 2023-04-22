@@ -1,23 +1,13 @@
 # Titel...
 
-Languages:
-- [english](./readme.md)
-- [deutsch](./readme_de.md)
+Symbolbedeutung:<br />
+👉 Benutzeraktivität<br />
+⚡ Schneller Weg
 
-Symbolic meaning:<br />
-👉 User activity here<br />
-⚡ Fast way
+## Inhaltsverzeichnis
 
-## Table of contents
+## Das Repository klonen
 
-## Clone this Repository
+Siehe [hier](./clone-this-repo_de.md).
 
-See [here](./clone-this-repo.md).
-
-## Other usefull tutorials
-
-- [The basics of PowerShell](https://github.com/bugfrei/ps-powershell-basics/)
-- [Interactiv PS Github Tutorial, german only](https://github.com/bugfrei/Git-Tutorial)
-
-More to come.
 
