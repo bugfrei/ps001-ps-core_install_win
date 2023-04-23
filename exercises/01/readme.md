@@ -1,6 +1,6 @@
-# Installationsvorbereitungen
+# 👉 Installationsvorbereitungen
 
-👉 Installation von "Chocolatey".
+Installation von "Chocolatey".
 
 1. Suche "Chocolatey install" in Google
 2. Zirka zur Mitte scrollen und den Quellcode in die Zwischenablage kopieren
@@ -10,7 +10,7 @@
 1. den kopierten Code nun einfügen und ausführen (Enter)
 2. `choco --version` ausführen. Es sollte **1.3.0** oder höher ausgegeben werden.
 
-# Installation von PowerShell Core
+# 👉 Installation von PowerShell Core
 
 1. `choco find powershell-core` ausführen. Hier sollte die PowerShell 7.x.x ausgegeben werden.
 2. `choco install powershell-core -y` ausführen, dies installiert die PowerShell Core.
