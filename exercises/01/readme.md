@@ -9,9 +9,12 @@
 ![Windows PowerShell im Startmenü](assets/SCR-20230422-tihd.jpeg)
 1. den kopierten Code nun einfügen und ausführen (Enter)
 2. `choco --version` ausführen. Es sollte **1.3.0** oder höher ausgegeben werden.
-3. `choco find powershell-core` ausführen. Hier sollte die PowerShell 7.x.x ausgegeben werden.
-4. `choco install powershell-core -y` ausführen, dies installiert die PowerShell Core.
-5. Anschließend sollte die PowerShell Core im Startmenü vorhanden sein. Hier einfach nach "pow" (1) suchen
+
+# Installation von PowerShell Core
+
+1. `choco find powershell-core` ausführen. Hier sollte die PowerShell 7.x.x ausgegeben werden.
+2. `choco install powershell-core -y` ausführen, dies installiert die PowerShell Core.
+3. Anschließend sollte die PowerShell Core im Startmenü vorhanden sein. Hier einfach nach "pow" (1) suchen
 ![PowerShell Core im Startmenü](assets/SCR-20230422-tjyb.jpeg)
 Das Dunkle Symbol (2) ist die PowerShell Core, das Blaue (3) die bereits vorhandene Windows PowerShell.
 
