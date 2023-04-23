@@ -41,3 +41,8 @@ All diese Programme lassen sich mit einer einzigen Befehlszeile in der PowerShel
 Ein paar Minuten später ist alles installiert. Kein Zutun notwendig, es geht ALLES automatisch!
 
 Um alle mit choco installierten Programe upzudaten kann einfach `choco upgrade all -y` ausgeführt werden. Auch hier geht alles automatisch.
+
+# Zurück zu...
+
+- [Übersicht dieses Tutorials](../../readme.md)
+- [Alle Themenbereichen](https://github.com/bugfrei/itea.git)

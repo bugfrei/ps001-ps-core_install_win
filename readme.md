@@ -12,4 +12,6 @@ Symbolbedeutung:<br />
 
 Siehe [hier](./clone-this-repo_de.md).
 
+# Zurück zu...
 
+- [Alle Themenbereichen](https://github.com/bugfrei/itea.git)
